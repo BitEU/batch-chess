@@ -21,9 +21,9 @@ If you do not know how to play, then visit http://en.wikipedia.org/wiki/Rules_of
 
 Tested and works on:
 
-•Windows XP (Will most likely require a choice command download. Read below.)
-•Windows Vista
-•Windows 7
+ï¿½Windows XP (Will most likely require a choice command download. Read below.)
+ï¿½Windows Vista
+ï¿½Windows 7
 
 Windows Command Prompt is required to play.
 The choice command is also required. If you recieve an error regarding the choice command, or the input box
